@@ -5,7 +5,6 @@
 [![codebeat badge](https://codebeat.co/badges/1b33c26b-9165-454f-b3df-dbe4dfb56c9e)](https://codebeat.co/projects/github-com-finnzeit-instant-master)
 [![CircleCI](https://circleci.com/gh/finnzeit/instant.svg?style=svg)](https://circleci.com/gh/finnzeit/instant)
 
-Try out at [zeit.js.org/instant](https://zeit.js.org/instant/) or [https://instant-4cf24.firebaseapp.com](https://instant-4cf24.firebaseapp.com) 
 
 ## Current features
 - Create, login with an account
